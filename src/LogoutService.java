@@ -1,3 +1,3 @@
 public class LogoutService {
-    // awesome service here
+    // awesome service here for logout
 }
