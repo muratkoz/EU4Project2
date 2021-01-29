@@ -3,5 +3,6 @@ public class Hello {
         System.out.println("I type something");
         // line 1
         // line 2
+        // line 3
     }
 }
